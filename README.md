@@ -1,3 +1,11 @@
+### 👋 Hi
+
+- My name is Tyler
+- 💻 I'm a Software Engineer at [Polaris, Inc.](https://www.polaris.com/en-us/)
+- ✈️ Upper Michigan > Minnesota
+- 🏋️ Weightlifting
+- 📙 Favorite Programming Lanuage: TypeScript
+
 ### Github Stats
 
 <a href="https://github.com/tjmareng">
