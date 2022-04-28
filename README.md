@@ -3,8 +3,7 @@
 - My name is Tyler
 - 💻 I'm a Software Engineer at [Polaris, Inc.](https://www.polaris.com/en-us/)
 - ✈️ Upper Michigan ➜ Minnesota
-- 🏋️ Weightlifting
-- 📙 Favorite Programming Lanuage: TypeScript
+- 📙 Favorite Programming Lanuages: TypeScript, C#
 
 ### Github Stats
 
