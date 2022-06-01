@@ -1,4 +1,4 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 - My name is Tyler
 - 💻 I'm a Full-Stack Software Engineer at [Polaris, Inc.](https://www.polaris.com/en-us/)
